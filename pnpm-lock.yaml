@@ -48,8 +48,8 @@ dependencies:
     specifier: ^2.12.0
     version: 2.12.0
   hexo-theme-landscape:
-    specifier: ^1.0.0
-    version: 1.0.0
+    specifier: ^1.1.0
+    version: 1.1.0
 
 packages:
 
@@ -960,7 +960,7 @@ packages:
     requiresBuild: true
     dependencies:
       bindings: 1.5.0
-      nan: 2.19.0
+      nan: 2.23.0
     dev: false
     optional: true
 
@@ -1295,8 +1295,8 @@ packages:
       - supports-color
     dev: false
 
-  /hexo-theme-landscape@1.0.0:
-    resolution: {integrity: sha512-bWQJWMqQI78wWiJPQZq5pJBH20TM442ShCaHGRetuEgMraxH0OKxB3NTupJzNEkzEk8DV2yrdizkXdKN6i501A==}
+  /hexo-theme-landscape@1.1.0:
+    resolution: {integrity: sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==}
     dev: false
 
   /hexo-util@0.1.7:
@@ -1941,8 +1941,8 @@ packages:
     dev: false
     optional: true
 
-  /nan@2.19.0:
-    resolution: {integrity: sha512-nO1xXxfh/RWNxfd/XPfbIfFk5vgLsAxUR9y5O0cHMJu/AW9U95JLXqthYHjEp+8gQ5p96K9jUp8nbVOxCdRbtw==}
+  /nan@2.23.0:
+    resolution: {integrity: sha512-1UxuyYGdoQHcGg87Lkqm3FzefucTa0NAiOcuRsDmysep3c1LVCRK2krrUDafMWtjSG04htvAmvg96+SDknOmgQ==}
     requiresBuild: true
     dev: false
     optional: true
