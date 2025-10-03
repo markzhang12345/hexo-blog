@@ -1,6 +1,31 @@
 #- { "name" : "", "link" : "", "description" : "", "avatar" : "" }
-- { "name" : "kpmark", "link" : "https://markzhang12345.github.io", "description" : "如密传如密", "avatar" : "https://pic2.zhimg.com/50/v2-4b84d8c432526bcd62b97b0f04605378_hd.jpg?source=1940ef5c" } 
-- { "name" : "ArronHC", "link" : "https://blog.arronhc.cyou/", "description" : "去皮土豆子", "avatar" : "../images/ahc头像.jpg" } 
-- { "name" : "Acidbarium", "link" : "https://www.cnblogs.com/acidbarium", "description" : "Well, there's too little space here for me to write...", "avatar" : "../images/lcx头像.jpg" } 
-- { "name" : "酸钡君的伊甸园", "link" : "https://acidbarium.github.io/", "description" : "愛あるが故に！", "avatar" : "https://acidbarium.github.io/img/oneshot_light.png" } 
-- { "name" : "ing", "link" : "https://sddnytsh.github.io/", "description" : "一心向上，万事可期", "avatar" : "https://img.picui.cn/free/2025/04/16/67ffa0b5dd8dc.jpg" } 
+- {
+    "name": "kpmark",
+    "link": "https://markzhang12345.github.io",
+    "description": "如密传如密",
+    "avatar": "https://pic2.zhimg.com/50/v2-4b84d8c432526bcd62b97b0f04605378_hd.jpg?source=1940ef5c",
+  }
+- {
+    "name": "ArronHC的博客",
+    "link": "https://arronhc.cyou/",
+    "description": "Stay hungry, stay foolish",
+    "avatar": "https://www.arronhc.cyou/_image?href=%2F_astro%2Favatar.CYhxVmdW.png&w=442&h=442&f=webp",
+  }
+- {
+    "name": "Acidbarium",
+    "link": "https://www.cnblogs.com/acidbarium",
+    "description": "Well, there's too little space here for me to write...",
+    "avatar": "../images/lcx头像.jpg",
+  }
+- {
+    "name": "酸钡君的伊甸园",
+    "link": "https://acidbarium.github.io/",
+    "description": "愛あるが故に！",
+    "avatar": "https://acidbarium.github.io/img/oneshot_light.png",
+  }
+- {
+    "name": "ing",
+    "link": "https://sddnytsh.github.io/",
+    "description": "一心向上，万事可期",
+    "avatar": "https://sddnytsh.github.io/img/avatar.jpg",
+  }
